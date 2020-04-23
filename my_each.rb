@@ -13,5 +13,5 @@ end
 end
 
 my_each(collection) do |field|
-  puts field
+   field
 end
