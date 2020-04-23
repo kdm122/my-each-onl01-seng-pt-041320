@@ -1,4 +1,5 @@
 #array = [1, 2, 3, 4]
+collection = []
 
 def my_each(collection) # put argument(s) here
   # code here
