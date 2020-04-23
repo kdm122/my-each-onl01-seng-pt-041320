@@ -11,4 +11,6 @@ end
   
 end
 
-my_each(array)
+my_each(array) do |field|
+  puts field
+end
